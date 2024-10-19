@@ -1,0 +1,30 @@
+.gid_0120_cell_001 {
+	background-color:#0064CA; 
+	font-color:#FFFFFF;
+/*	background-color:#F5F5F5; */
+	font-size           : 15px;
+/*	width:133.00px;
+	height:40.00px;*/
+	text-align: center;
+}
+
+.gid_0120_cell_001:hover{
+    color               : rgba(255, 178, 102, 1.0);
+    cursor             : pointer;
+}
+
+span { 
+	text-align: center;
+}
+span:hover{
+    color               : rgba(255, 178, 102, 1.0);
+    cursor             : pointer;
+}
+/*
+span { 
+    display:block;
+    width:50px;
+    word-wrap:break-word;
+}
+*/
+

@@ -1,0 +1,89 @@
+.pid_0520_cell_001 {
+	background-color:#E8E8E8;
+	position:absolute;
+	top:20.0000px;
+	left:20.0000px;	
+	width:1360.00px;
+	height:710.00px;
+}
+.pid_0520_cell_001_tabheader {
+	position:absolute;
+	top:0.0000px;
+	left:0.0000px;
+	width:1340.00px;
+	height:20px;
+}
+.pid_0520_cell_001_tabheader_001 {
+	position:absolute;
+	border:1px solid;
+	border-color:#E0E0E0;
+	font-size:10.00px;
+	font-family:"Arial";
+/*	text-align: center;*/
+}
+.pid_0520_cell_001_tabheader_001:hover{
+    color               : rgba(255, 178, 102, 1.0);
+    cursor             : pointer;
+}
+.pid_0520_cell_001_tabheader_button	 {
+	position:absolute;
+	color:#000000;
+	font-size:10.00px;
+	font-family:"Arial";
+	text-align: center;
+/*
+	border:1px solid;
+	border-color:#E0E0E0;
+*/
+	background-color:#F5F5F5;
+}
+
+.pid_0520_cell_001_tabheader_button:hover{
+    color               : rgba(255, 178, 102, 1.0);
+    cursor             : pointer;
+}
+.pid_0520_cell_001_tabheader_button_vertical	 {
+	position: absolute;
+	top: 50%;
+	/*margin-top: -1px;   /*subtract half the height */
+	/*line-height: 0px;   centre the text on the base line */
+	text-align: center;
+	 /*left: 50%; added */
+	margin-left:-18px;
+	white-space: nowrap;
+	background-color:#E8E8E8;
+	color:#000000;
+	font-size:10.00px;
+	font-family:"Arial";
+	transform: rotate(90deg)
+}
+.pid_0520_cell_001_tabheader_button:hover{
+    color               : rgba(255, 178, 102, 1.0);
+    cursor             : pointer;
+}
+.pid_0520_cell_001_tabheader_001_button	 {
+	background-color:#E8E8E8;
+	position:absolute;
+	top:0.0000px;
+	left:0px;
+	width:680.00px;
+	height:20px;
+	color:#000000;
+	font-size:10.00px;
+	font-family:"Arial";
+	text-align: center;
+	border:1px solid;
+	border-color:#E0E0E0;
+}
+.pid_0520_cell_001_tabpage{
+	display:block;
+	position:absolute;
+}
+.pid_0520_cell_001_tabpage_display {
+	display:block;
+	position:absolute;
+}
+.pid_0520_cell_001_tabpage_none{
+	display:none;
+	position:absolute;
+}

@@ -1,0 +1,23 @@
+.gid_0123_cell_001 {
+	position:absolute;
+	background-color:#FFFFFF;
+	top:0px;
+	width:150px;
+	height:20.00px;
+	float:left;
+}
+.gid_0123_cell_001_object_001 {
+	position:absolute;
+	color:#000000;
+	background-color:#FFFFFF;
+	left:0px;
+	height:15.00px;
+}
+.gid_0123_cell_001_object_002 {
+	position:absolute;
+	background-color:#FFFFFF;
+	top:0px;
+	left:15px;
+	height:20.00px;
+	text-align:left
+}
